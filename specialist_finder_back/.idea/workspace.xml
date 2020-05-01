@@ -1,7 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1c641294-3797-42b6-85d4-17b46386a4b5" name="Default Changelist" comment="" />
+    <list default="true" id="1c641294-3797-42b6-85d4-17b46386a4b5" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/47a33fcd-b7ec-455d-b52b-15bdf476319f.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/47a33fcd-b7ec-455d-b52b-15bdf476319f.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/api/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/api/admin.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/api/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/api/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/api/serializers.py" beforeDir="false" afterPath="$PROJECT_DIR$/api/serializers.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/api/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/api/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/db.sqlite3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/specialist_finder_back/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/specialist_finder_back/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/specialist_finder_back/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/specialist_finder_back/urls.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -47,7 +58,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="ProjectId" id="1bA6cR8KHTYWBdFvQlkRXjxENgD" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -56,6 +71,7 @@
   <component name="PropertiesComponent">
     <property name="DatabaseDriversLRU" value="sqlite" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
@@ -104,6 +120,10 @@
       <workItem from="1588102306076" duration="5408000" />
       <workItem from="1588149004090" duration="640000" />
       <workItem from="1588152184199" duration="1746000" />
+      <workItem from="1588325333902" duration="9597000" />
+      <workItem from="1588341519980" duration="800000" />
+      <workItem from="1588347253533" duration="408000" />
+      <workItem from="1588351697830" duration="5615000" />
     </task>
     <servers />
   </component>
@@ -123,9 +143,9 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="184" y="6" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1588101558966" />
-    <state x="379" y="188" key="com.intellij.ide.util.TipDialog" timestamp="1588152182404">
+    <state x="379" y="188" key="com.intellij.ide.util.TipDialog" timestamp="1588351710362">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="379" y="188" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1588152182404" />
+    <state x="379" y="188" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1588351710362" />
   </component>
 </project>

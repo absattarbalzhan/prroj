@@ -37,7 +37,7 @@ class SpecialistSerializer(serializers.ModelSerializer):
 
     class Meta:
         model = Specialist
-        fields = ['id', 'title', 'age', 'gender', 'city', 'likes', 'front_image', 'images', 'category', 'author', 'followers']
+        fields = ['id', 'title', 'age', 'gender', 'city', 'likes', 'front_image', 'first_image', 'second_image', 'third_image', 'category', 'author', 'followers']
 
 
 class CommentSerializer(serializers.ModelSerializer):
